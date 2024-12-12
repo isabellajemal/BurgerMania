@@ -17,12 +17,18 @@ If you want to end the game and see your score, press the** START** button from 
 ## Room Controls:
 
 **A Button:** Pick up the items (ingredients and dishes) to place at cooking stations and/or chop
+
 **B Button:** Cancel the current action and return to the previous screen (e.g. going back from a
 chopping station to the main kitchen)
+
 **Left Button:** Move the chef left across the kitchen.
 **Right Button:** Move the chef right across the kitchen
+
 **Up Button:** Move the chef vertically up in the kitchen.
 **Down Button:** Move the chef down within the kitchen.
+
 **Select Button:** Pause the game.
+Start Button: Start the game. Unless you are in your main kitchen/game state, then pressing start will take you to your score and end the game.
+
 **D-pad Left:** Scan the room to the left
 **D-pad Right:** Scan the room to the right
