@@ -1,6 +1,6 @@
 # Burger Mania
 
-In Burger Mania, the player is in charge of a chaotic kitchen where
+ In Burger Mania, the player is in charge of a chaotic kitchen where
 they must complete cooking multiple recipes under a time limit. As the chef, the player will chop
 ingredients, cook dishes, and assemble orders to serve hungry customers. They must prepare
 multiple orders at once, juggle ingredients, and deliver orders to customers in an orderly fashion. With each dish you correctly serve to customers, you will earn one gold star on your final score.
