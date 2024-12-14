@@ -63,6 +63,7 @@ Start Button: Start the game. Unless you are in your main kitchen/game state, th
 
 
 
+<img width="1203" alt="Screenshot 2024-12-14 at 1 38 59 AM" src="https://github.com/user-attachments/assets/5472cfb9-7e6b-4647-a26c-3d92a10b7046" />
 
 
 
